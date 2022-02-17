@@ -21,5 +21,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaxpakistan&show_icons=true&theme=radical&border_color=141414" />
 </a>
 <a href="https://github.com/shaxpakistan/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxpakistan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxpakistan&layout=compact" />
 </a>
