@@ -14,6 +14,12 @@
 
 ✨ # Ontek#Devs.
 ✨ # Thinkupafrica.
-✨ # PandaTech.
+✨  PandaTech.
 
-<img src = "https://github-readme-stats.vercel.app/api?username=shaxpakistan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&border_color=151515">
+
+<a href="https://github.com/shaxpakistan/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaxpakistan&show_icons=true&theme=radical&border_color=141414" />
+</a>
+<a href="https://github.com/shaxpakistan/">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxpakistan&layout=compact" />
+</a>
