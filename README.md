@@ -1,16 +1,17 @@
-### Hi there 👋
+### Yo! I`m sHaX Pakistan 👋
 
-<!--
-**shaxpakistan/shaxpakistan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Queuing management with Django.
+- 🌱 I’m currently learning Python and Django for Web Development.
+- 👯 I’m looking to collaborate on #Onteki and #Thinkupafrica.
+- 🤔 I’m looking for help with KivyMD and Django.
+- 💬 Ask me about Computers and other related tech staffs.
+- 📫 How to reach me: shaxhq@gmail.com
+- 😄 Pronouns: Eng.
+- ⚡ Fun fact: temper with computer S/W & H/W most of the time.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Code Your Future With:
+
+-✨ # Ontek#Devs.
+-✨ # Thinkupafrica.
+-✨ # PandaTech.
