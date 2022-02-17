@@ -1,4 +1,4 @@
-### Yo! I'm sHaX Pakistan 👋
+### Yo! I`m sHaX Pakistan 👋
 
 - 🔭 I’m currently working on Queuing management with Django.
 - 🌱 I’m currently learning Python and Django for Web Development.
