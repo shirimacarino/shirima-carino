@@ -12,6 +12,6 @@
 
 ### Code Your Future With:
 
--✨ # Ontek#Devs.
--✨ # Thinkupafrica.
--✨ # PandaTech.
+✨ # Ontek#Devs.
+✨ # Thinkupafrica.
+✨ # PandaTech.
