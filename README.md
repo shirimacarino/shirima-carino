@@ -12,14 +12,6 @@
 
 ### Code Your Future With
 
-✨ # Ontek#Devs.
+✨ # OntekDevs.
 ✨ # Thinkupafrica.
-✨  PandaTech.
-
-
-<a href="https://github.com/shaxpakistan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaxpakistan&show_icons=true&theme=radical&border_color=141414" />
-</a>
-<a href="https://github.com/shaxpakistan/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxpakistan&layout=compact" />
-</a>
+✨ # PandaTech.
