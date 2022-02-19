@@ -19,4 +19,4 @@
 ✨ # PandaTech.
 
 
-[![shaxpakistan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaxpakistan&show_icons=true&hide=issues&theme=radical&border_color=141414)](https://github.com/shaxpakistan/README)
+[![shaxpakistan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaxpakistan&show_icons=true&hide=issues&theme=radical&border_color=121212)](https://github.com/shaxpakistan/README)
