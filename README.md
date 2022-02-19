@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help with KivyMD and Django.
 - 💬 Ask me about Computers and other related tech staffs.
 - 📫 How to reach me: shaxhq@gmail.com
-- 🌱 Coding temper: https://www.sololearn.com/profile/14653711
-- ✨ Find out more about me: https://www.linkedin.com/in/paulo-shirima-b289241b1/
+- 🌱 Coding temper: www.sololearn.com/profile/14653711
+- ✨ Find out more about me: www.linkedin.com/in/paulo-shirima-b289241b1/
 - 😄 Pronouns: Eng.
 - ⚡ Fun fact: temper with computer S/W & H/W most of the time.
 
