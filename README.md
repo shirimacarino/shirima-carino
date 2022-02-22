@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It`s sHaX</h1>
-<h3 align="center">I'm a passionate system programmer</h3>
+<h3 align="center">I'm a passionate system programmer from Tanzania</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -14,11 +14,7 @@
 
 - 💬 Ask me about Computers and other related tech staffs.
 
-- 📫 How to reach me: shaxhq@gmail.com
-
 - 🌱 Coding temper: www.sololearn.com/profile/14653711
-
-- ✨ Find out more about me: www.linkedin.com/in/paulo-shirima-b289241b1/
 
 - 😄 Pronouns: Eng.
 
@@ -80,7 +76,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="https://github.com/shaxpakistan/README">
+    <img src="https://komarev.com/ghpvc/?username=shaxpakistan">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shaxpakistan?tab=followers"><img src="https://img.shields.io/github/followers/shaxpakistan?label=Followers&style=social" alt="GitHub Badge"></a>
