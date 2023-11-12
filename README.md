@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It`s shax</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It`s shirima</h1>
 <h3 align="center">I'm a passionate system programmer from Tanzania</h3>
 
 
@@ -41,8 +41,8 @@
 </p>
 <br/>
 <p align="center">
-    <a href="https://github.com/shaxpakistan/README">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shax's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shaxpakistan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/shirimacarino/README">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shax's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shirimacarino&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -53,8 +53,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/shaxpakistan/README"><img alt="Shax Pakistan Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaxpakistan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/shaxpakistan/README"><img alt="Shax Pakistan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxpakistan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/shirimacarino/README"><img alt="Shax Pakistan Github Stats" src="https://github-readme-stats.vercel.app/api?username=shirimacarino&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/shirimacarino/README"><img alt="Shax Pakistan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirimacarino&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't all reflect to experience or skill level.
 
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/shaxpakistan/README"><img alt="Shax Pakistan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shaxpakistan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shirimacarino/README"><img alt="Shax Pakistan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shirimacarino&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -79,7 +79,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/shaxpakistan/README">
-    <img src="https://komarev.com/ghpvc/?username=shaxpakistan">
+<a href="https://github.com/shirimacarino/README">
+    <img src="https://komarev.com/ghpvc/?username=shirimacarino">
 </a>
-<a href="https://github.com/shaxpakistan?tab=followers"><img src="https://img.shields.io/github/followers/shaxpakistan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shirimacarino?tab=followers"><img src="https://img.shields.io/github/followers/shirimacarino?label=Followers&style=social" alt="GitHub Badge"></a>
