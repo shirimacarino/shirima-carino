@@ -8,17 +8,13 @@
 
 - 🔭 I’m currently learning Python and Django for Web Development, kivyMD for application development.
 
-- 👯 I’m looking to collaborate on #Onteki and #Thinkupafrica.
-
-- 🤔 I’m looking for help with KivyMD and Django.
-
 - 💬 Ask me about Computers and other related tech staffs.
 
-- 🌱 Coding temper: www.sololearn.com/profile/14653711
+- 🌱 Coding : www.sololearn.com/profile/14653711
 
 - 😄 Pronouns: Eng.
 
-- ⚡ Fun fact: temper with computer S/W & H/W most of the time.
+- ⚡ Fun fact: Interested with computer S/W & H/W most of the time.
 
 
 ## 🚀 Languages and Tools:
